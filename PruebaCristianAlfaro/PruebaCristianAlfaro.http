@@ -1,0 +1,6 @@
+@PruebaCristianAlfaro_HostAddress = http://localhost:5103
+
+GET {{PruebaCristianAlfaro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
